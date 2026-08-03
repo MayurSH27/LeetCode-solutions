@@ -1,12 +1,10 @@
 class Solution:
     def findDuplicates(self, nums: List[int]) -> List[int]:
-        hm = {}
+        s = set()
         op = []
 
         for i in nums:
-            if i in hm:
-                hm[i]+=1
+            if i in s:
                 op.append(i)
-            hm[i]=1
-
+            s.add(i)
         return op
