@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -29,4 +30,12 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
