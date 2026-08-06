@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -23,6 +24,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
