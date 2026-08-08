@@ -1,15 +1,20 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        if(len(s)!=len(t)):
+        if (len(s)!=len(t)):
             return False
-
-        hm = {}
+        
+        s_to_t = {}
+        used = set()
 
         for i in range(len(s)):
-            if s[i] in hm and hm[s[i]]!=t[i]:
-                return False
-            elif s[i] not in hm and t[i] in hm.values():
-                return False
+            if s[i] in s_to_t:
+                if s_to_t[s[i]]!=t[i]:
+                    return False
+            
             else:
-                hm[s[i]] = t[i]
+                if t[i] in used:
+                    return False
+
+            s_to_t[s[i]] = t[i]
+            used.add(t[i])
         return True
