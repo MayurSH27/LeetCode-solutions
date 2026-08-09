@@ -6,16 +6,19 @@
 | ------- |
 | [0001-two-sum](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0053-maximum-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
