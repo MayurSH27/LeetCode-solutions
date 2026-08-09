@@ -14,7 +14,6 @@ class Solution:
             else:
                 if t[i] in used:
                     return False
-
-            s_to_t[s[i]] = t[i]
-            used.add(t[i])
+                s_to_t[s[i]] = t[i]
+                used.add(t[i])
         return True
