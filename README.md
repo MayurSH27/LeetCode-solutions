@@ -59,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -72,4 +73,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
