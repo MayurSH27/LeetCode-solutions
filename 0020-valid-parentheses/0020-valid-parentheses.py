@@ -1,18 +1,13 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stk = []
+        pairs = { ')':'(', ']':'[', '}':'{'}
 
-        for i in s:
-            if i=='(' or i == '[' or i == '{':
-                stk.append(i)
-            elif len(stk)!= 0 and i == ')' and stk[-1] == '(':
-                stk.pop()
-            elif len(stk)!= 0 and i == ']' and stk[-1] == '[':
-                stk.pop()
-            elif len(stk)!= 0 and i == '}' and stk[-1] == '{':
+        for ch in s:
+            if ch in "([{":
+                stk.append(ch)
+            elif stk and stk[-1]==pairs[ch]:
                 stk.pop()
             else:
                 return False
-        if len(stk) == 0:
-            return True
-        return False
+        return len(stk) == 0
