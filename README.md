@@ -23,6 +23,7 @@
 | [0287-find-the-duplicate-number](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0148-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
