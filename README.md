@@ -107,4 +107,8 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0203-remove-linked-list-elements) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/MayurSH27/LeetCode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
